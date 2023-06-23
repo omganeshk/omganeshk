@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omganeshk
-- 👀 I’m interested in ... c
-- 🌱 I’m currently learning ... JAVA
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... -
 - 📫 How to reach me ... -
 
